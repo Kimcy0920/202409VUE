@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_project"]=self["webpackChunkvue_project"]||[]).push([[594],{7239:function(t,u,e){e.r(u),e.d(u,{default:function(){return b}});var n=e(641);const r={class:"about"},a=(0,n.Lk)("h1",null,"This is an about page",-1),c=(0,n.Lk)("a",{href:"https://github.com/Kimcy0920",target:"_blank"},"Kimcy0920 GitHub Link",-1),i=[a,c];function s(t,u){return(0,n.uX)(),(0,n.CE)("div",r,i)}var o=e(6262);const h={},k=(0,o.A)(h,[["render",s]]);var b=k}}]);
+//# sourceMappingURL=about.59722e63.js.map
